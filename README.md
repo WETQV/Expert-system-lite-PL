@@ -98,7 +98,7 @@
 Этот проект распространяется под лицензией MIT License. Подробнее см. в файле `LICENSE`.
 
 ## Автор
-**WETQV** - [YourGitHubProfile](https://github.com/WETQV)
+**WETQV** - [Профиль](https://github.com/WETQV)
 
 ## Дополнительная информация
 ### Расширение функциональности
